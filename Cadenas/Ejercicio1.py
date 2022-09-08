@@ -11,3 +11,4 @@ nombre=input("Introduce tu nombre: ")
 print(nombre.lower())
 print(nombre.upper())
 print(nombre.title())#Se usa para poner la primera letra de cada palabra en Mayuscula
+
